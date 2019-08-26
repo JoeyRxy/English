@@ -10,7 +10,7 @@
 
   constitute
 
-  compose
+  ~~compose~~
 
 -----
 
@@ -117,7 +117,5 @@ contract
 ---
 
 
-
-## Reference
 
 [Trump1]:https://twitter.com/realDonaldTrump/status/1108335293671845888
