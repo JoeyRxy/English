@@ -1,3 +1,4 @@
 {
     "editor.snippetSuggestions": "top",
+    "editor.suggest.snippetsPreventQuickSuggestions": false
 }
