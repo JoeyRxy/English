@@ -3,12 +3,13 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "chrome",
+    "configurations": [{
+            "type": "java",
+            "name": "Debug (Launch) with Arguments Prompt",
             "request": "launch",
-            "name": "html Current",
-            "file": "${file}"
+            "mainClass": "${file}",
+            "args": "${command:SpecifyProgramArgs}"
         }
+
     ]
 }
