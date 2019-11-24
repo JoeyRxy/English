@@ -1,4 +1,19 @@
 # 定语从句
+## [介词+关系词](https://zhuanlan.zhihu.com/p/54412053)
+如何断句其实很重要：就是将两个句子换成分句形式：
+
+含有一个要注意的是：介词是 定语**从句**中的介词，而不是主句中的介词，介词要跟定语从句中的动词
+- Is this the car for which you paid a high price?
+  - Is this the car? / for (the car), you paid a high price.
+- The teacher with whom the students in our class are popular is Mr Wang.
+  - The teacher / with the teacher, the students in our class are popular.
+  - be popular with
+### 介词为 of
+表从属关系，(whose)：
+
+- He lives in the room, whose window faces west.
+  - He lives in the room, the window of which faces west.
+  - He lives in the room. the window of (the room) faces west. 
 # 名词性从句
 # 定语从句 和 名词性从句的区别
 ***复合句要分成两个部分讨论：主句 和 从句，只有在这个前提下讨论才有意义***
