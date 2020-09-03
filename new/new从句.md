@@ -8,6 +8,10 @@
 - The teacher with whom the students in our class are popular is Mr Wang.
   - The teacher / with the teacher, the students in our class are popular.
   - be popular with
+
+09年翻译：
+- Even today, in our industrial life, apart from certain values of industriousness and thrift, the intellectual and emotional reaction of the forms of human association <u>***under which*** the world's work is carried on</u> receives little attention as compared with physical output.
+
 ### 介词为 of
 表从属关系，(whose)：
 
